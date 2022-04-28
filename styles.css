@@ -1,0 +1,29 @@
+body {
+    
+font-family: 'Noto Serif Display', serif;
+    font-size:20px;
+}
+
+p {
+    color: black;
+
+}
+
+h1 {
+    color: White;
+
+}
+
+.fortune-display {
+    
+
+}
+
+.large-font {
+    font-size: 30px;
+}
+.background{
+    padding:10px;
+    border:groove 5px gray;
+    background: linear-gradient(to top, #00ffcc 0%, #0099ff 100%);
+}
